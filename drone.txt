@@ -1,0 +1,9 @@
+plot the co-ordinates after going for walk
+check the gps plotter app
+try only to get the proper co-ordinates.
+dont work near buildings, work only in open spaces
+dx2 - dy2 = d2
+d2 is known
+slop is known
+
+try dx = x2 - x1

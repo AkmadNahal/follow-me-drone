@@ -1,0 +1,5 @@
+repeatuntil($i=10)
+if($CameraObjectWidth > 70)
+stop()
+endif 
+endrepeatuntil
